@@ -1,0 +1,13 @@
+E:\Education 2024.2\2) Software Engineering\6# Project - Phase2\Code\Trivago_swe\Trivago_swe\bin\Debug\Trivago_swe.exe.config
+E:\Education 2024.2\2) Software Engineering\6# Project - Phase2\Code\Trivago_swe\Trivago_swe\bin\Debug\Trivago_swe.exe
+E:\Education 2024.2\2) Software Engineering\6# Project - Phase2\Code\Trivago_swe\Trivago_swe\bin\Debug\Trivago_swe.pdb
+E:\Education 2024.2\2) Software Engineering\6# Project - Phase2\Code\Trivago_swe\Trivago_swe\obj\Debug\Trivago_sw.csproj.AssemblyReference.cache
+E:\Education 2024.2\2) Software Engineering\6# Project - Phase2\Code\Trivago_swe\Trivago_swe\obj\Debug\Trivago_swe.Form1.resources
+E:\Education 2024.2\2) Software Engineering\6# Project - Phase2\Code\Trivago_swe\Trivago_swe\obj\Debug\Trivago_swe.Form2.resources
+E:\Education 2024.2\2) Software Engineering\6# Project - Phase2\Code\Trivago_swe\Trivago_swe\obj\Debug\Trivago_swe.Form3.resources
+E:\Education 2024.2\2) Software Engineering\6# Project - Phase2\Code\Trivago_swe\Trivago_swe\obj\Debug\Trivago_swe.Form4.resources
+E:\Education 2024.2\2) Software Engineering\6# Project - Phase2\Code\Trivago_swe\Trivago_swe\obj\Debug\Trivago_swe.Properties.Resources.resources
+E:\Education 2024.2\2) Software Engineering\6# Project - Phase2\Code\Trivago_swe\Trivago_swe\obj\Debug\Trivago_sw.csproj.GenerateResource.cache
+E:\Education 2024.2\2) Software Engineering\6# Project - Phase2\Code\Trivago_swe\Trivago_swe\obj\Debug\Trivago_sw.csproj.CoreCompileInputs.cache
+E:\Education 2024.2\2) Software Engineering\6# Project - Phase2\Code\Trivago_swe\Trivago_swe\obj\Debug\Trivago_swe.exe
+E:\Education 2024.2\2) Software Engineering\6# Project - Phase2\Code\Trivago_swe\Trivago_swe\obj\Debug\Trivago_swe.pdb
